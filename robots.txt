@@ -1,0 +1,16 @@
+# Allow all bots by default
+User-agent: *
+
+# Disallow private or non-SEO folders
+Disallow: /php/
+Disallow: /vendor/
+Disallow: /ajax/
+
+# Allow assets (important for rendering pages correctly)
+Allow: /css/
+Allow: /js/
+Allow: /img/
+Allow: /video/
+
+# Sitemap for crawlers
+Sitemap: https://www.blueskippers.com/sitemap.xml
