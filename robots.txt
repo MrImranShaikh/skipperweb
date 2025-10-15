@@ -13,4 +13,4 @@ Allow: /img/
 Allow: /video/
 
 # Sitemap for crawlers
-Sitemap: https://www.blueskippers.com/sitemap.xml
+Sitemap: https://blueskippers.com/sitemap.xml
